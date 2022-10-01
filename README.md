@@ -15,10 +15,10 @@ When hit me is pressed, an alert appears which shows the slider value
 The app is designed for the **landscape** orientation. The app looks like this:
 
 This is the main game page.
-![Game Page](https://github.com/annapurnasid/?raw=true)
+![Game Page](https://github.com/annapurnasid/bullseye/blob/master/screenshots/game_page.png?raw=true)
 
 This is the alert result dialog that appears on hitting the 'HIT ME' button.
-![Result Box](https://github.com/annapurnasid/?raw=true)
+![Result Box](https://github.com/annapurnasid/bullseye/blob/master/screenshots/result_alert.png?raw=true)
 
 This **result varies** based on how close your slider is to the target number.
 
